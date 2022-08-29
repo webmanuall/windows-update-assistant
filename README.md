@@ -2,7 +2,7 @@
 
 
 
-[![Windows Update Assistant](red2.png)](https://github.com/webmanuall/windows-update-assistant)
+[![Windows Update Assistant](red2.png)](https://computersolve.com/windows-update-assistant/)
 
 
 
